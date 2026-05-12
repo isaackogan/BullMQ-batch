@@ -1,0 +1,8 @@
+name: bullmq-batch
+
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: bullmq-batch-redis
+    ports:
+      - "6379:6379"
