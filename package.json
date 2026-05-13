@@ -1,6 +1,6 @@
 {
   "name": "bullmq-batch",
-  "version": "0.0.1-alpha1",
+  "version": "0.0.1",
   "description": "Distributed batching extensions for BullMQ (BatchWorker, BatchQueue).",
   "type": "module",
   "main": "./dist/index.js",
